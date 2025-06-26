@@ -2,12 +2,8 @@
 # 🔍 AI Investment Assistant using RAG
 
 ## 📘 Project Summary
+It is a lightweight RAG (Retrieval-Augmented Generation) application designed to answer investment-related queries using real-time financial data. It retrieves real-time financial data from trusted websites like Screener.in, Yahoo Finance, and Moneycontrol, processes it using LLMs, and gives data-driven investment suggestions.
 
-This is a simple but powerful **Research-Augmented Generation (RAG)** based AI assistant that answers investment-related questions like:
-
-> “Should I invest in Zomato?”
-
-It retrieves real-time data from trusted financial websites, processes it using embeddings and large language models (LLMs), and gives a **data-backed investment suggestion**.
 
 ---
 
